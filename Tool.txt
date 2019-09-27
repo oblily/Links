@@ -1,0 +1,10 @@
+infra test tool:
+  1: Test Kitchen
+  2: Infrataster
+  3: Kirby
+  4: AnsibleSpec
+
+infra virtual technic:
+  1: virtualbox # local hypervisor.
+  2: vargant # auto config manage tool.
+  3: 
